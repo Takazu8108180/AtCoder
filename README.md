@@ -15,4 +15,7 @@ abc <directory name> <file name>
 - コンパイル
 `Ctrl + Shift + B`
 
+- ファイル実行
+`./problem.exe`
+
 - [参考](https://note.com/syntax_error_/n/ndded92400e46)
